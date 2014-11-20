@@ -1,0 +1,11 @@
+{
+  "name": "my-element",
+  "description": "My awesome element",
+  "version": "0.0.0",
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.5.0"
+  },
+  "devDependencies": {
+    "closure-compiler" : "http://dl.google.com/closure-compiler/compiler-latest.zip"
+  }
+}
